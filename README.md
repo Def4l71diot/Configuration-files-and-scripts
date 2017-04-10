@@ -1,2 +1,2 @@
-# Configuration-files-and-scripts
-The repo name says it all
+# Configuration files and scripts
+Some scripts and configuration files for an easier dev-environment setup
