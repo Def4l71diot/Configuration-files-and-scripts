@@ -12,7 +12,7 @@ Some scripts and configuration files for an easier dev-environment setup
 
 - Why?
 
-  Easier than doing manually
+  Easier than doing it manually
 
 - How to use it then?
 
